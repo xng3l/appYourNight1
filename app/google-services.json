@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607862033240",
+    "project_id": "bdyn-35081",
+    "storage_bucket": "bdyn-35081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607862033240:android:4c5b5658b978b816fa732d",
+        "android_client_info": {
+          "package_name": "com.example.yournight10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKNes2VeiNXOi0_Dd5FaeyZ4_Id3AGcjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
